@@ -30,3 +30,17 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananya-saxena75&show_icons=true&theme=tokyonight)
+
+
+
+<p align="center">
+
+Thanks for visiting my GitHub! 👋  
+Now back to debugging... 👨‍💻  
+Bye bye 👋
+
+<br><br>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+
+</p>
