@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ananya Saxena</h1>
-<h3 align="center">A curious backend developer exploring Java, Spring Boot, and data-driven solutions.</h3>
+<h1 align="center">Hello World!</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Ananya+Saxena;Java+Backend+Developer;Spring+Boot+Learner;Exploring+Data+Analysis+%26+AI;Always+Learning+New+Things" />
+</p>
 
 - 🔭 I’m currently working on **Dog Disease Detection System**
 
